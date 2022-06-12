@@ -19,7 +19,7 @@
    - [Description](#description)
    - [Documentation](#documentation)
    - [Usage](#usage)
-   - [Screenshot](#screenshot)
+   - [Video](#video)
    - [Features](#features)
    - [Acknowledgements](#acknowledgements)
    - [License](#license)
