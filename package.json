@@ -13,8 +13,15 @@
     "type": "git",
     "url": "git+https://github.com/LilCalc/Babbling_Brook.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "CMS",
+    "CLI",
+    "Node",
+    "MYSQL",
+    "mysql2",
+    "inquirer"
+  ],
+  "author": "Noah Savino",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/LilCalc/Babbling_Brook/issues"
