@@ -31,8 +31,12 @@
   
    ## Usage
    The application will be used for management over multiple departments.
-   ## Screenshot
-   ![Screenshot](N/A)
+   ## Video
+   
+
+https://user-images.githubusercontent.com/101202962/173250310-8d419db2-49be-48ea-981c-6079f0e2ac9b.mp4
+
+
    ## Features
    Management over a large number of employees across multiple departments.
    
